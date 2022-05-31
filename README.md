@@ -1,7 +1,6 @@
 <h2> Hi there, I'm Mohamed Hassan 👋 </h2>
 
-<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- -->
+
 - Mobile Software Engineer
 
 <hr>
@@ -13,7 +12,7 @@
 - Dart
 - Flutter web
 - FireBase(FireStore Store,FCM,Authentication,Functions,Storage)
-- state Mangement(Provider,Bloc)
+- State Mangement(Provider,Bloc)
 - Streams and Reactive Programming
 - Rx Dart
 - SOLID Principles
@@ -69,7 +68,7 @@ Fattoma is  e-commerce app that is provides you a reliable shopping experience i
 <hr>
 
 
----------------------------------------------------- -->
+
 ### Steng
 
 Steng is  e-commerce app that is provides you a reliable shopping experience in one place.<br />
@@ -78,8 +77,7 @@ Discover the latest trends in men's fashion & style. Shop the new range of men's
 
 <hr>
 
-<!-- - android : https://play.google.com/store/apps/details?id=io.appbear.application
-- ios : https://apps.apple.com/eg/app/appbear/id1548685005
+
 ---------------------------------------------------- -->
 ### El Bastawesy-صيدلية البسطويسى
 
@@ -91,19 +89,16 @@ Sit back & relax while you get your essentials delivered every day.<br />
 
 <hr>
 
-<!-- - android : https://play.google.com/store/apps/details?id=app.ask.application
-- ios : https://apps.apple.com/eg/app/discy/id1535374585 
----------------------------------------------------- -->
+
 ### FarmBox - فارم بوكس
 
 FarmBox is the leading e-commerce in Grocery products market. With a convenient platform for both seller and buyer.<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=com.dokkan.farmboxx" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/dashop/id1564735827" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.dokkan.farmboxx" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
 
----------------------------------------------------- -->
 ### Sport Home 
 
 Sport Home is  e-commerce app that is provides you a reliable shopping experience in one place!<br />
@@ -113,7 +108,6 @@ Discover the latest trends in men's & women Sports fashion & style. Shop the new
 <hr>
 
 
----------------------------------------------------- -->
 ### Software Cloud2 Tickets
 
 Software Cloud2 Tickets is Support app for company in Saudi Arabia<br />
