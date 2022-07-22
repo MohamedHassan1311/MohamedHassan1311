@@ -40,6 +40,14 @@
 
 <h2> Samples from my projects </h2>
 
+### STips (IOT Control App)
+S-Tips is Smart Home app for control S-Tips IOT devises.<br />
+app control IOT devise by two ways
+Online & offline used websocket protocol for real time changes.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.visionalization.stipsws" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/s-tips/id1629453511" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 ### Doctor Fruites (دكتور الفاكهة -ELnour fruit)
 Doctor Fruits is the leading e-commerce in Grocery products market. With a convenient platform for both seller and buyer.<br />
 Doctor Fruits Provides you a reliable shopping experience in one place and Conversation with admin to ask about anything.<br />
