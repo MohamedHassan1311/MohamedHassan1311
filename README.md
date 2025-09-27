@@ -35,6 +35,7 @@
 End-to-end **retail solution** with mobile apps, ERP dashboard, and analytics.  
 Features: **Inventory, Customer Management, Payments, Loyalty Programs**.  
 Built with **Clean Architecture** for enterprise growth.  
+🔗 [Visit Zurex](https://zurex.sa/ar)  
 
 ---
 
@@ -42,6 +43,7 @@ Built with **Clean Architecture** for enterprise growth.
 A multi-channel platform for ordering fresh meat products.  
 Includes **Customer App, Delivery App, Website, and Admin Dashboard**.  
 Integrated with **Tabby, Tamara, HyperPay, and IVR systems** for smooth checkout.  
+🔗 [Visit Allo Lahma](http://aloolahma.com/)  
 
 ---
 
@@ -52,6 +54,7 @@ Fintech platform for managing investments:
 - **Wallet & Portfolio Management**  
 - **Real-time Feeds & Payments**  
 - Admin portal for analytics & management.  
+🔗 [Visit Sahem Financial](https://sahemfinancial.com/)  
 
 <hr>
 
