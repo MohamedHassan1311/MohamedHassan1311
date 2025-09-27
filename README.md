@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Software Engineer | Project Manager | Technical Consultant</h3>
 
 <p align="center">
-🚀 4+ years of experience delivering scalable mobile apps, enterprise solutions, and integrated systems
+🚀 6+ years of experience delivering scalable mobile apps, enterprise solutions, and integrated systems
 </p>
 
 <hr>
@@ -20,10 +20,11 @@
 
 <h2>💼 Professional Highlights</h2>
 
+- 6+ years of experience in **mobile app development & system design**.  
 - Led **cross-functional teams** as Project Manager for fintech, e-commerce, and SaaS projects.  
-- Designed **system architectures** with focus on scalability, security, and integrations.  
-- Delivered **enterprise-grade apps** with integrations into TLM, Shipox, ERP, and payment systems.  
-- Prepared **SRS, SLA, and technical proposals** for corporate clients in fintech, logistics, and retail.  
+- Designed **scalable & secure architectures** with integrations to ERP, TLM, Shipox, and payment systems.  
+- Delivered **enterprise-grade apps** with millions of transactions & high user engagement.  
+- Created **SRS, SLA, and technical proposals** for corporate clients in fintech, logistics, and retail.  
 - Worked with **international clients** in Saudi Arabia, UAE, and Egypt.  
 
 <hr>
@@ -65,7 +66,7 @@ Smart Home app for controlling IoT devices via **real-time websocket updates** (
 ### 🔹 Zurex (Retail & E-commerce Platform)  
 End-to-end **retail solution** with mobile apps, ERP dashboard, and analytics.  
 Features: **Inventory, Customer Management, Payments, Loyalty Programs**.  
-Scalable system built with **Clean Architecture** for enterprise growth.  
+Built with **Clean Architecture** for enterprise growth.  
 
 ---
 
