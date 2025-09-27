@@ -9,7 +9,7 @@
 
 <h2>🏢 Current Role</h2>
 
-**Lead Mobile & Team Leader @ [IntelligentSolutionss](https://intelligentsolutionss.com/)**  
+**Lead Mobile & Team Leader @ [Intelligent Solutions](https://intelligentsolutionss.com/)**  
 – Leading a cross-functional team in mobile development, architecture, code reviews, mentoring, and delivery of core mobile products.
 
 <hr>
