@@ -7,6 +7,13 @@
 
 <hr>
 
+<h2>🏢 Current Role</h2>
+
+**Lead Mobile & Team Leader @ [IntelligentSolutionss](https://intelligentsolutionss.com/)**  
+– Leading a cross-functional team in mobile development, architecture, code reviews, mentoring, and delivery of core mobile products.
+
+<hr>
+
 <h2>⚡ Technical Skills</h2>
 
 - **Mobile Development:** Flutter, Dart, Flutter Web  
@@ -21,11 +28,12 @@
 <h2>💼 Professional Highlights</h2>
 
 - 6+ years of experience in **mobile development & project leadership**.  
-- Successfully **led cross-functional teams** to deliver fintech, e-commerce, and SaaS solutions.  
-- Designed **scalable architectures** with integrations to ERP, TLM, Shipox, and payment systems.  
-- Delivered **enterprise-grade mobile apps** with secure authentication & payment flows.  
-- Authored **SRS, SLA, and proposals** for major clients in fintech, retail, and logistics.  
-- Worked with **international clients** in Saudi Arabia, UAE, and Egypt.  
+- Currently leading mobile teams and shaping product architecture at IntelligentSolutionss.  
+- Successfully led cross-functional teams to deliver fintech, e-commerce, and SaaS solutions.  
+- Designed scalable architectures integrating ERP, TLM, Shipox, and payment systems.  
+- Delivered enterprise-grade mobile apps with secure auth & payment flows.  
+- Authored SRS, SLA, and proposals for major clients in fintech, retail, and logistics.  
+- Worked with international clients in Saudi Arabia, UAE, and Egypt.  
 
 <hr>
 
