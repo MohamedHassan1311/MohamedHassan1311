@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Mohamed Hassan</h1>
-<h3 align="center">Mobile Software Engineer | Project Manager | Technical Consultant</h3>
+<h3 align="center">Mobile Software Engineer | Project Manager</h3>
 
 <p align="center">
-🚀 6+ years of experience delivering scalable mobile apps, enterprise solutions, and integrated systems
+🚀 6+ years of experience delivering high-quality mobile apps, leading teams, and building enterprise-grade solutions
 </p>
 
 <hr>
@@ -20,48 +20,16 @@
 
 <h2>💼 Professional Highlights</h2>
 
-- 6+ years of experience in **mobile app development & system design**.  
-- Led **cross-functional teams** as Project Manager for fintech, e-commerce, and SaaS projects.  
-- Designed **scalable & secure architectures** with integrations to ERP, TLM, Shipox, and payment systems.  
-- Delivered **enterprise-grade apps** with millions of transactions & high user engagement.  
-- Created **SRS, SLA, and technical proposals** for corporate clients in fintech, logistics, and retail.  
+- 6+ years of experience in **mobile development & project leadership**.  
+- Successfully **led cross-functional teams** to deliver fintech, e-commerce, and SaaS solutions.  
+- Designed **scalable architectures** with integrations to ERP, TLM, Shipox, and payment systems.  
+- Delivered **enterprise-grade mobile apps** with secure authentication & payment flows.  
+- Authored **SRS, SLA, and proposals** for major clients in fintech, retail, and logistics.  
 - Worked with **international clients** in Saudi Arabia, UAE, and Egypt.  
 
 <hr>
 
-<h2>📬 Contact Me</h2>
-
-<p>
-  <a href="http://Wa.me/201554444801" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:moahamedelbaz1311@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-hassan-8384761aa" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100006101352537" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-<hr>
-
 <h2>📱 Selected Projects</h2>
-
-### 🔹 STips (IoT Control App)  
-Smart Home app for controlling IoT devices via **real-time websocket updates** (online & offline).  
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.visionalization.stipsws" target="_blank">
-    <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
-  <a href="https://apps.apple.com/us/app/s-tips/id1629453511" target="_blank">
-    <img alt="App Store" src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🔹 Zurex (Retail & E-commerce Platform)  
 End-to-end **retail solution** with mobile apps, ERP dashboard, and analytics.  
@@ -86,3 +54,20 @@ Fintech platform for managing investments:
 - Admin portal for analytics & management.  
 
 <hr>
+
+<h2>📬 Contact Me</h2>
+
+<p>
+  <a href="http://Wa.me/201554444801" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:moahamedelbaz1311@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-hassan-8384761aa" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100006101352537" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
