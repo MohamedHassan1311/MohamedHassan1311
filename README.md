@@ -17,7 +17,7 @@
 <h2>⚡ Technical Skills</h2>
 
 - **Mobile Development:** Flutter, Dart, Flutter Web  
-- **Backend & Cloud:** Firebase (Firestore, FCM, Auth, Functions, Storage), .NET APIs integration  
+- **Backend & Cloud:** Firebase (Firestore, FCM, Auth, Functions, Storage), APIs integration  
 - **Architecture & Patterns:** Clean Architecture, SOLID Principles, OOP, Design Patterns  
 - **State Management:** Provider, BLoC, RxDart, Streams & Reactive Programming  
 - **DevOps & Deployment:** App Store & Google Play deployment, CI/CD pipelines, Git  
