@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Mohamed Hassan</h1>
-<h3 align="center">Mobile Software Engineer | Project Manager</h3>
+<h3 align="center"> Software Engineer</h3>
 
 <p align="center">
 🚀 6+ years of experience delivering high-quality mobile apps, leading teams, and building enterprise-grade solutions
